@@ -1,0 +1,9 @@
+- item.py（Item）
+- weapon.py（Weapon）
+- loot.py（LootItem）
+- player.py（Player）
+- backpack.py（Backpack）
+- location.py（InteractionPoint, Room, Location）
+- escape.py（EscapeZone）
+- session.py（GameSession）
+- main.py（main関数）
